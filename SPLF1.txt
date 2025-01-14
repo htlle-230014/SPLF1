@@ -1,0 +1,1 @@
+Ich habe die Aufgabe erledigt: Bei dieser Aufgabe habe ich diese Datei in ein eigenes Repository auf git gespeichert.
